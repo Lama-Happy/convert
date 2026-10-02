@@ -1,2 +1,0 @@
-// Edit this file to customise the site. export const CONFIG = \{ name: 'convert', github: 'https://github.com/Lama-Happy/convert', colors: \{ // overrides CSS variables per theme dark:  \{ '--acc': '\#7cff9b' \}, light: \{ '--acc': '\#0a5c2a' \}, \}, formats: \{ image: \['png', 'jpg', 'webp', 'avif'\], audio: \['mp3', 'wav', 'flac', 'ogg', 'aac'\], video: \['mp4', 'webm', 'mkv', 'mov', 'gif'\], \}, maxBytes: 2 \* 1024 \*\* 3, // ffmpeg.wasm memory limit is ~2 GB warnBytes: 500 \* 1024 \*\* 2, \};
-
